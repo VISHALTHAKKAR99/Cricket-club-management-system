@@ -58,7 +58,7 @@
               <div class="col-sm-4">
                 <div class="inputBox">
                   <div class="inputText">Club Id</div>
-                  <input type="text" name="clubid" class="input">
+                  <input type="text" name="clubid" class="input" required>
                 </div>
               </div>
               <div class="col-sm-8">
